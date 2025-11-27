@@ -14,9 +14,9 @@ $ neofetch
      ███████████████████     Area: Cybersecurity • Red Team • WebSec • RE
     █████████████████████    Focus: Pentest | Exploração | Infra | Cloud | DevOps
     █████████████████████    Editor: Neovim / VSCode
-    █████████████████████    CPU: Intel Core Ultra 9
-     ███████████████████     GPU: NVIDIA RTX 5090
-      ▀███████████████▀      RAM: 64GB
+    █████████████████████    CPU: Intel Core i9
+     ███████████████████     GPU: NVIDIA RTX 2050
+      ▀███████████████▀      RAM: 8GB
         ▀███████████▀        Shell: zsh 5.9
             ▀▀▀▀▀▀▀          Terminal: kitty
 
