@@ -21,8 +21,8 @@ $ neofetch
             ▀▀▀▀▀▀▀          Terminal: kitty
 
 $ cat about_me.txt
-Apenas um cara com o hobby de quebrar coisas… e, às vezes, criar algo no processo.
+Just chilling and hacking
     
-$ echo "fim."
+$ echo "end."
   </pre>
 </div>
